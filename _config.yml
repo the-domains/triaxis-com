@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.8063353902449568
+  lightness: 0.5813908636037223
+  rhythmicContrast: 0.13052652669413667
+  saturation: 0.3899660288521033
+cta: {}
+layout_spectrum: 0.28603445332176447
+name: triaxis.com
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.6403327622102627

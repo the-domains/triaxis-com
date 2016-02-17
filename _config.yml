@@ -1,4 +1,20 @@
-analytics: {}
+name: triaxis.com
+favicon: null
+layout_spectrum: 0.28603445332176447
+typography_spectrum: 0.6403327622102627
+title: 'Storing, Managing & Protecting Your Digital Assets'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#C8D8E0'
@@ -8,11 +24,9 @@ color:
     - '#D0F8F8'
   brandStrength: 0.8063353902449568
   lightness: 0.5813908636037223
-  rhythmicContrast: 0.13052652669413667
   saturation: 0.3899660288521033
-cta: {}
-layout_spectrum: 0.28603445332176447
-name: triaxis.com
-opengraph: {}
-purpose: {}
-typography_spectrum: 0.6403327622102627
+  rhythmicContrast: 0.13052652669413667
+purpose:
+  - name: null
+    item: null
+    url: null

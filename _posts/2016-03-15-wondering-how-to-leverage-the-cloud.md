@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-15T21:08:18.719Z'
-dateModified: '2016-03-15T21:08:06.950Z'
+datePublished: '2016-03-16T01:08:20.245Z'
+dateModified: '2016-03-16T01:07:58.533Z'
 title: Wondering How to Leverage the Cloud?
 author: []
+sourcePath: _posts/2016-03-15-wondering-how-to-leverage-the-cloud.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-15-wondering-how-to-leverage-the-cloud.md
-published: true
 url: wondering-how-to-leverage-the-cloud/index.html
 _type: Article
 
